@@ -7,7 +7,7 @@ Bangkok University Student / Intern
 I'm Studying at Artificial Intelligence Engineering and Data Science - วิศวกรรมปัญญาประดิษฐ์และวิทยาการข้อมูล
 
 * 🌍  I'm based in Rangsit , Pathumthani
-* ✉️  You can contact me at [waywtid47@gmail.com](mailto:waywtid47@gmail.com)
+* ✉️  You can contact me at [waywtid47@gmail.com](mailto:mamaway083@gmail.com)
 * 🧠  I'm currently learning Machine Learning , Data structure , SQL , Data mining , Python
 * 👥  I'm looking to collaborate on TTS model
 
